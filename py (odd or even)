@@ -6,4 +6,4 @@ else:
     print(f"The number {number} is Odd")
 ##output
   Enter a number: 8
-The number 8 is Even
+   The number 8 is Even
