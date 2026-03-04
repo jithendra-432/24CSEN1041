@@ -31,3 +31,28 @@ print(A.symmetric_difference(B))
 {1, 2, 5, 6}
 
 === Code Execution Successful ===
+
+s = {1, 2, 3}
+
+# Add element
+s.add(4)
+
+# Remove element (error if not found)
+s.remove(2)
+
+# Discard element (no error if not found)
+s.discard(10)
+
+# Pop random element
+s.pop()
+
+# Clear all elements
+s.clear()
+
+print(s)
+
+##output
+
+set()
+
+=== Code Execution Successful ===
